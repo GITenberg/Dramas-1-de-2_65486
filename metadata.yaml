@@ -1,16 +1,21 @@
 _repo: Dramas-1-de-2_65486
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Navarro, Cecilio
     gutenberg_agent_id: '53373'
     url: http://www.gutenberg.org/2009/agents/53373
+covers:
+- cover_type: archival
+  image_path: 65486-h/images/cover-back.jpg
 creator:
   author:
     agent_name: Hugo, Víctor
     gutenberg_agent_id: '53372'
     url: http://www.gutenberg.org/2009/agents/53372
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65486#Dramas-1-de-2
 gutenberg_issued: '2021-06-01'
 gutenberg_type: Text
 identifiers:
